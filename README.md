@@ -12,6 +12,15 @@
 
 后端项目：`dkd-parent`
 
+app端：`likede.apk`
+
+app端后端：`dkd-app`
+
+设备屏幕端：
+
+- 前端：`screen`
+- 后端：`dkd-applet`
+
 其他说明：
 
 - nodejs版本：20.8.0
